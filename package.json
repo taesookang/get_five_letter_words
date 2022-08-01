@@ -1,0 +1,9 @@
+{
+  "name": "fiveLetterWords",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wordnet": "^2.0.0"
+  }
+}
